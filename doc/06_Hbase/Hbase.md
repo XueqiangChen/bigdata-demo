@@ -23,18 +23,23 @@
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
 
-代码: 
-测试: 
-结果:
-namespace：
+#### 代码
+https://github.com/XueqiangChen/bigdata-demo/blob/master/src/main/java/com/example/bigdatademo/hbase/HbaseUtils.java
+
+#### 测试
+https://github.com/XueqiangChen/bigdata-demo/blob/master/src/test/java/com/example/bigdatademo/hbase/HbaseUtilsTest.java
+
+#### 结果
+
+**namespace：**
 
 ![image-20210728182506953](https://chenxqblog-1258795182.cos.ap-guangzhou.myqcloud.com/typora/image-20210728182506953.png)
 
-scan table 结果：
+**scan table 结果：**
 
 ![image-20210728182704114](https://chenxqblog-1258795182.cos.ap-guangzhou.myqcloud.com/typora/image-20210728182704114.png)
 
 
 参考文档:
-[1] [Insert Data Into HBase Table Using Java API](https://www.corejavaguru.com/bigdata/hbase-tutorial/hbase-java-client-api-examples)
-[2] [HBase 系列（六）——HBase Java API 的基本使用](https://juejin.cn/post/6844903949732937735)
+* [Insert Data Into HBase Table Using Java API](https://www.corejavaguru.com/bigdata/hbase-tutorial/hbase-java-client-api-examples)
+* [HBase 系列（六）——HBase Java API 的基本使用](https://juejin.cn/post/6844903949732937735)
